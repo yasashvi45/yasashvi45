@@ -1,78 +1,166 @@
-<!-- ========================================================= -->
-<!--                       HERO BANNER                         -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Yasashvi Chowdary Banner" width="100%" />
-</p>
+<img src="./assets/banner.svg" width="100%" alt="Yasashvi Chowdary Vallepalli"/>
 
-<h1 align="center">
-  Hi 👋 I'm Yasashvi Chowdary
-</h1>
+<br/>
 
-<h3 align="center">
-  Full Stack Developer • AI Enthusiast • Building Scalable Web Applications
-</h3>
+<a href="https://yasashvi45.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-081229?style=for-the-badge&logoColor=38BDF8" /></a>
+<a href="https://www.linkedin.com/in/yasashvi-chowdary-vallepalli-8a999b2a7/"><img src="https://img.shields.io/badge/LINKEDIN-081229?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="mailto:yasashvichowdaryvallepalli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-081229?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 
-<p align="center">
-  Third-Year Computer Science Engineering Student at Pragati Engineering College, passionate about creating modern, responsive, and AI-powered web applications using React, TypeScript, Node.js, Express, Firebase, and Python.
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
+## About
 
-<a href="https://yasashvi45.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-081229?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+Third-year B.Tech Computer Science Engineering student at Pragati Engineering College, Rajamahendravaram, Andhra Pradesh. I build scalable web applications and enjoy solving real-world problems through code — currently focused on full-stack development, with a growing interest in AI-assisted systems and system design.
 
-</a>
+**Currently:** deepening backend engineering skills while shipping full-stack projects.
+**Open to:** internship opportunities in full-stack / frontend development.
 
-<a href="https://github.com/yasashvi45">
+<br/>
 
-<img src="https://img.shields.io/badge/GitHub-081229?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+## Tech Stack
 
-</a>
+<table>
+<tr>
+<td valign="top" width="20%">
 
-<a href="https://www.linkedin.com/in/yasashvi-chowdary-vallepalli-8a999b2a7/">
+**Frontend**
+- HTML / CSS
+- JavaScript
+- TypeScript
+- React
+- Vite
 
-<img src="https://img.shields.io/badge/LinkedIn-081229?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</td>
+<td valign="top" width="20%">
 
-</a>
+**Backend**
+- Node.js
+- Express
 
-<a href="mailto:yasashvichowdaryvallepalli@gmail.com">
+</td>
+<td valign="top" width="20%">
 
-<img src="https://img.shields.io/badge/Email-081229?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+**Database**
+- Firebase
+- Firestore
 
-</a>
+</td>
+<td valign="top" width="20%">
 
-</p>
+**Languages**
+- Python
+- JavaScript
+- TypeScript
 
----
+</td>
+<td valign="top" width="20%">
 
-<p align="center">
+**Tools / AI**
+- Git, GitHub
+- VS Code, Postman
+- Google Gemini API
 
-<img src="https://komarev.com/ghpvc/?username=yasashvi45&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/github/followers/yasashvi45?label=Followers&style=for-the-badge&color=2563EB"/>
+<br/>
 
-<img src="https://img.shields.io/github/stars/yasashvi45?label=Stars&style=for-the-badge&color=2563EB"/>
+## Featured Projects
 
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### GlobalGrad
+AI-powered study-abroad platform. Students explore destinations and universities, track applications, and get guidance from a Gemini-powered assistant. Admins manage listings, scholarships, and users from a dedicated dashboard.
 
-## 🚀 What I'm Building
+`React` `TypeScript` `Node.js` `Express` `Firebase` `Gemini API`
 
-✔ AI-Powered Web Applications
+[Live](https://global-grad-3qmounh9f-yasashvichowdaryvallepalli-5916s-projects.vercel.app/) · [API](https://globalgrad.onrender.com) · [Repo](https://github.com/yasashvi45/GlobalGrad)
 
-✔ Modern Full Stack Projects
+</td>
+<td width="50%" valign="top">
 
-✔ Responsive User Interfaces
+### Chronova
+Front-end-only luxury watch e-commerce site recreating the feel of a premium brand's online store — product filtering, wishlist, cart, and a dedicated concierge section. Built with no frameworks.
 
-✔ Scalable Backend Systems
+`HTML5` `CSS3` `JavaScript`
 
-✔ Clean & Maintainable Code
+[Live](https://yasashvi45.github.io/Chronova/) · [Repo](https://github.com/yasashvi45/Chronova)
 
-✔ Real-World Software Solutions
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Campus Issue Reporting System
+Students report campus issues and track resolution status; admins assign staff, update status, and chat with students per issue. Includes keyword-based category and priority suggestion, no external AI API.
+
+`HTML5` `CSS3` `JavaScript` `LocalStorage`
+
+[Live](https://campus-issue-reporting-system.netlify.app/login.html) · [Repo](https://github.com/yasashvi45/campus-issue-reporting-system)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio
+Personal site showcasing skills, projects, and certifications with a responsive, modern UI.
+
+`HTML5` `CSS3` `JavaScript`
+
+[Live](https://yasashvi45.github.io/portfolio/) · [Repo](https://github.com/yasashvi45/portfolio)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Certifications
+
+**IBM** — Front-End Web Development · Back-End Development · Responsive Web Page Development · Interactive Front-End Development · Web Application Testing and Deployment · Integration of Databases · Enterprise Design Thinking Practitioner · Artificial Intelligence Fundamentals · Generative AI Essentials · Data Classification and Summarization Using IBM Granite
+
+**Meta (via Coursera)** — Introduction to Front-End Development · Programming with JavaScript · Version Control
+
+<br/>
+
+## Internships
+
+**EduSkills Foundation** *(Remote)*
+- Prompt Engineering for AI — Virtual Intern *(Jan–Mar 2026)*
+- Android Developer — Virtual Intern *(Oct–Dec 2025)*
+- Data Engineering — Virtual Intern *(Jul–Sep 2025)*
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yasashvi45&show_icons=true&hide_border=true&bg_color=081229&title_color=38BDF8&icon_color=2563EB&text_color=F8FAFC" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=yasashvi45&hide_border=true&background=081229&stroke=2563EB&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=60A5FA&dates=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasashvi45&bg_color=081229&color=38BDF8&line=2563EB&point=F8FAFC&area=true&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yasashvi45&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/yasashvi-chowdary-vallepalli-8a999b2a7/"><img src="https://img.shields.io/badge/LinkedIn-081229?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="https://yasashvi45.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-081229?style=for-the-badge&logo=vercel&logoColor=38BDF8"/></a>
+<a href="mailto:yasashvichowdaryvallepalli@gmail.com"><img src="https://img.shields.io/badge/Email-081229?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+
+<sub>Thanks for stopping by.</sub>
+
+</div>
