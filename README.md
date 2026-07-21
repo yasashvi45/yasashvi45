@@ -1,166 +1,99 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Yasashvi Chowdary Vallepalli"/>
+<img src="./assets/hero.svg" width="100%" alt="Yasashvi Chowdary Vallepalli — Full Stack Developer"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://yasashvi45.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-081229?style=for-the-badge&logoColor=38BDF8" /></a>
-<a href="https://www.linkedin.com/in/yasashvi-chowdary-vallepalli-8a999b2a7/"><img src="https://img.shields.io/badge/LINKEDIN-081229?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="mailto:yasashvichowdaryvallepalli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-081229?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=2800&pause=1200&color=60A5FA&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Frontend-focused+%7C+backend-curious;Currently+learning+system+design;Open+to+internship+opportunities" alt="typing" />
+</a>
 
 </div>
 
 <br/>
 
-## About
-
-Third-year B.Tech Computer Science Engineering student at Pragati Engineering College, Rajamahendravaram, Andhra Pradesh. I build scalable web applications and enjoy solving real-world problems through code — currently focused on full-stack development, with a growing interest in AI-assisted systems and system design.
-
-**Currently:** deepening backend engineering skills while shipping full-stack projects.
-**Open to:** internship opportunities in full-stack / frontend development.
+<img src="./assets/about.svg" width="100%" alt="About"/>
 
 <br/>
 
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="20%">
-
-**Frontend**
-- HTML / CSS
-- JavaScript
-- TypeScript
-- React
-- Vite
-
-</td>
-<td valign="top" width="20%">
-
-**Backend**
-- Node.js
-- Express
-
-</td>
-<td valign="top" width="20%">
-
-**Database**
-- Firebase
-- Firestore
-
-</td>
-<td valign="top" width="20%">
-
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-
-</td>
-<td valign="top" width="20%">
-
-**Tools / AI**
-- Git, GitHub
-- VS Code, Postman
-- Google Gemini API
-
-</td>
-</tr>
-</table>
+<img src="./assets/skills.svg" width="100%" alt="Tech Stack"/>
 
 <br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GlobalGrad
-AI-powered study-abroad platform. Students explore destinations and universities, track applications, and get guidance from a Gemini-powered assistant. Admins manage listings, scholarships, and users from a dedicated dashboard.
-
-`React` `TypeScript` `Node.js` `Express` `Firebase` `Gemini API`
-
-[Live](https://global-grad-3qmounh9f-yasashvichowdaryvallepalli-5916s-projects.vercel.app/) · [API](https://globalgrad.onrender.com) · [Repo](https://github.com/yasashvi45/GlobalGrad)
-
-</td>
-<td width="50%" valign="top">
-
-### Chronova
-Front-end-only luxury watch e-commerce site recreating the feel of a premium brand's online store — product filtering, wishlist, cart, and a dedicated concierge section. Built with no frameworks.
-
-`HTML5` `CSS3` `JavaScript`
-
-[Live](https://yasashvi45.github.io/Chronova/) · [Repo](https://github.com/yasashvi45/Chronova)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Campus Issue Reporting System
-Students report campus issues and track resolution status; admins assign staff, update status, and chat with students per issue. Includes keyword-based category and priority suggestion, no external AI API.
-
-`HTML5` `CSS3` `JavaScript` `LocalStorage`
-
-[Live](https://campus-issue-reporting-system.netlify.app/login.html) · [Repo](https://github.com/yasashvi45/campus-issue-reporting-system)
-
-</td>
-<td width="50%" valign="top">
-
-### Portfolio
-Personal site showcasing skills, projects, and certifications with a responsive, modern UI.
-
-`HTML5` `CSS3` `JavaScript`
-
-[Live](https://yasashvi45.github.io/portfolio/) · [Repo](https://github.com/yasashvi45/portfolio)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Certifications
-
-**IBM** — Front-End Web Development · Back-End Development · Responsive Web Page Development · Interactive Front-End Development · Web Application Testing and Deployment · Integration of Databases · Enterprise Design Thinking Practitioner · Artificial Intelligence Fundamentals · Generative AI Essentials · Data Classification and Summarization Using IBM Granite
-
-**Meta (via Coursera)** — Introduction to Front-End Development · Programming with JavaScript · Version Control
-
-<br/>
-
-## Internships
-
-**EduSkills Foundation** *(Remote)*
-- Prompt Engineering for AI — Virtual Intern *(Jan–Mar 2026)*
-- Android Developer — Virtual Intern *(Oct–Dec 2025)*
-- Data Engineering — Virtual Intern *(Jul–Sep 2025)*
-
-<br/>
-
-## GitHub Analytics
 
 <div align="center">
+<table>
+<tr>
+<td width="46" align="right"><div style="width:6px;height:26px;background:linear-gradient(#2563EB,#38BDF8)"></div></td>
+<td><h2 align="left">Featured Projects</h2></td>
+</tr>
+</table>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasashvi45&show_icons=true&hide_border=true&bg_color=081229&title_color=38BDF8&icon_color=2563EB&text_color=F8FAFC" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=yasashvi45&hide_border=true&background=081229&stroke=2563EB&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=60A5FA&dates=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC" width="49%"/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:16px;border:1px solid #1e3a5f;border-radius:14px;background:#0a1830;">
+<h3>GlobalGrad</h3>
+<p style="color:#B9C7E0">AI-powered study-abroad platform. Students explore destinations and universities, track applications, and get guidance from a Gemini-powered assistant. Admins manage listings, scholarships, and users from a dashboard.</p>
+<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Firebase</code> <code>Gemini API</code>
+<br/><br/>
+<a href="https://global-grad-3qmounh9f-yasashvichowdaryvallepalli-5916s-projects.vercel.app/">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/yasashvi45/GlobalGrad">Repository</a>
+</td>
+<td width="50%" valign="top" style="padding:16px;border:1px solid #1e3a5f;border-radius:14px;background:#0a1830;">
+<h3>Chronova</h3>
+<p style="color:#B9C7E0">Front-end-only luxury watch e-commerce site recreating the feel of a premium brand's online store — filtering, wishlist, cart, and a dedicated concierge section. No frameworks used.</p>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+<br/><br/>
+<a href="https://yasashvi45.github.io/Chronova/">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/yasashvi45/Chronova">Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:16px;border:1px solid #1e3a5f;border-radius:14px;background:#0a1830;">
+<h3>Campus Issue Reporting System</h3>
+<p style="color:#B9C7E0">Students report campus issues and track resolution status; admins assign staff, update status, and chat with students per issue. Includes keyword-based category and priority suggestion.</p>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>LocalStorage</code>
+<br/><br/>
+<a href="https://campus-issue-reporting-system.netlify.app/login.html">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/yasashvi45/campus-issue-reporting-system">Repository</a>
+</td>
+<td width="50%" valign="top" style="padding:16px;border:1px solid #1e3a5f;border-radius:14px;background:#0a1830;">
+<h3>Portfolio</h3>
+<p style="color:#B9C7E0">Personal site showcasing skills, projects, and certifications, with a responsive, modern UI.</p>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+<br/><br/>
+<a href="https://yasashvi45.github.io/portfolio/">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/yasashvi45/portfolio">Repository</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/certifications.svg" width="100%" alt="Certifications"/>
+
+<br/>
+
+<img src="./assets/internships.svg" width="100%" alt="Internships"/>
+
+<br/>
+
+<div align="center">
+<h2>GitHub Analytics</h2>
+
+<img src="https://raw.githubusercontent.com/yasashvi45/yasashvi45/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yasashvi45&show_icons=true&hide_border=true&bg_color=081229&title_color=38BDF8&icon_color=2563EB&text_color=F8FAFC" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasashvi45&layout=compact&hide_border=true&bg_color=081229&title_color=38BDF8&text_color=F8FAFC" width="48%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=yasashvi45&hide_border=true&background=081229&stroke=2563EB&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=60A5FA&dates=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC" width="60%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasashvi45&bg_color=081229&color=38BDF8&line=2563EB&point=F8FAFC&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasashvi45&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
-
 </div>
 
 <br/>
 
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/yasashvi-chowdary-vallepalli-8a999b2a7/"><img src="https://img.shields.io/badge/LinkedIn-081229?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="https://yasashvi45.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-081229?style=for-the-badge&logo=vercel&logoColor=38BDF8"/></a>
-<a href="mailto:yasashvichowdaryvallepalli@gmail.com"><img src="https://img.shields.io/badge/Email-081229?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
-
-<sub>Thanks for stopping by.</sub>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
